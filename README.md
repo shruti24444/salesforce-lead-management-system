@@ -16,3 +16,7 @@ Record Triggered Flows
 Reports & Dashboards  
 Lightning App Builder  
 Validation Rules
+
+
+## Business Use Case
+This system helps sales teams automatically identify high-value leads and prioritize follow-ups using automation and analytics.
